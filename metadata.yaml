@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3163
     wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31470#John-March-Southerner
 gutenberg_issued: '2010-03-02'
 gutenberg_type: Text
 identifiers:
